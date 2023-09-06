@@ -19,7 +19,7 @@
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"happiness": 2,
-		"uniques": ["+10% Production when constructing Military Land units in this city"],
+		"uniques": ["+10% Production when constructing Military Land units in this city"]["New Military Units start with 20 Experience in this city],
 		"requiredTech": "Bronze Working"
 	}
 ]
