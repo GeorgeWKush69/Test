@@ -1,8 +1,8 @@
 [
 	{
-		"name": "Holodeck",
+		"name": "Thunderdome",
 		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Mongs",
 		"cost": 480,
 		"happiness": 12,
 		"culture": 12,
@@ -13,13 +13,13 @@
 		"requiredTech": "Horseback Riding"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
+		"name": "Fighting Pit",
+		"replaces": "Barracks",
+		"uniqueTo": "Mongs",
 		"cost": 80,
 		"hurryCostModifier": 160,
 		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"uniques": ["+10% Production when constructing Military Land units in this city"],
+		"requiredTech": "Bronze Working"
 	}
 ]
